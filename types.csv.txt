@@ -1,0 +1,10 @@
+Тип,Перевод,Значение
+Integer,Целое число,int
+String,Строка,string
+Boolean,Логический тип,bool
+Double,Число с плавающей точкой,double
+DateTime,Дата и время,DateTime
+Char,Символ,char
+Byte,Байт,byte
+Array,Массив,array
+Object,Объект,object
